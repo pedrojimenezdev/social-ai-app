@@ -1,7 +1,7 @@
 # Social Command Center — Standing Instructions
 
 Telegram bot → AI copy + image generation → Zernio multi-platform publishing.
-Stack: Bun + grammY + TypeScript, bun:sqlite, Claude Haiku (copy), Flux via fal.ai (images), Zernio (publishing), single Ubuntu droplet behind Caddy.
+Stack: Bun + grammY + TypeScript, bun:sqlite, OpenRouter/DeepSeek with Claude Haiku fallback (copy + prompt enhancement), FLUX.2 turbo + Nano Banana 2 via fal.ai (images; nano-banana renders/edits on-image text), Zernio (publishing), single Ubuntu droplet (rsync deploy, polling mode — see README).
 
 Read PLAN.md for the full build plan, phases, and acceptance criteria.
 

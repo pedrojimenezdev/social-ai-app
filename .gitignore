@@ -12,3 +12,8 @@ node_modules/
 app.db
 *.log
 logs/
+
+# local tooling
+.nodeterm/
+.claude/settings.local.json
+data/

@@ -4,6 +4,8 @@
 
 One of the projects from [pedrojimenez.dev](https://pedrojimenez.dev/work/social-command) — built and run solo, in production, by Pedro Jimenez.
 
+**What it costs to run:** see [COSTS.md](COSTS.md).
+
 ## What it does
 
 You tell the bot what to promote (a photo, a product, a one-line idea). It:
